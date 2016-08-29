@@ -1,5 +1,5 @@
 {
-    "name": "QbilSoftware/twigstring-bundle",
+    "name": "qbil-software/twigstring-bundle",
     "type": "symfony-bundle",
     "description": "Renders strings instead of files with Twig",
     "keywords": ["Twig string"],
