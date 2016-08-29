@@ -1,9 +1,9 @@
 {
-    "name": "QbilSoftware/twigstring-bundle",
+    "name": "r1pp3rj4ck/twigstring-bundle",
     "type": "symfony-bundle",
     "description": "Renders strings instead of files with Twig",
     "keywords": ["Twig string"],
-    "homepage": "https://github.com/QbilSoftware/TwigstringBundle",
+    "homepage": "https://github.com/r1pp3rj4ck/TwigstringBundle",
     "license": "MIT",
     "authors": [
         {
